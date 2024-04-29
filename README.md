@@ -1,4 +1,4 @@
-Simple form for creating HTTP State and other Data what is not related to State Small Data Containers.
+Simple form for creating HTTP State and other small Data (what is not related to State) Containers.
 
 Functionality:
 $_COOKIE
